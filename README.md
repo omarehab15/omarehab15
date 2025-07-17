@@ -37,7 +37,7 @@
 
 ### 📌 Featured Projects
 
-- 🔍 <Graduation_project: Self parking vehicle> – < Designed and implemented a functional prototype that simulates the autonomous parking process. The system includes an ADAS module capable of:
+- 🔍 Graduation_project: Self parking vehicle –  Designed and implemented a functional prototype that simulates the autonomous parking process. The system includes an ADAS module capable of:
 
 Searching for a suitable parking spot (parallel or perpendicular),
 
@@ -47,7 +47,7 @@ Performing automated parking and exit maneuvers.
 
 The system utilizes sensor fusion and a custom mapping algorithm to understand and interact with the surrounding environment in real time.
 
-Technologies: STM32, C/C++, Ultrasonic Sensors, Sensor Fusion, Mapping Algorithms, Embedded Systems >  
+Technologies: STM32, C/C++, Ultrasonic Sensors, Sensor Fusion, Mapping Algorithms, Embedded Systems.   
 - 🧠 <Project 2 Name> – <Brief Description>  
 - 📊 <Project 3 Name> – <Brief Description>  
 
