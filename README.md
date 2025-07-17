@@ -30,14 +30,24 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YourGitHubUsername>&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<omarehab15>&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔍 <Project 1 Name> – <Brief Description>  
+- 🔍 <Graduation_project: Self parking vehicle> – < Designed and implemented a functional prototype that simulates the autonomous parking process. The system includes an ADAS module capable of:
+
+Searching for a suitable parking spot (parallel or perpendicular),
+
+Deciding the optimal parking strategy,
+
+Performing automated parking and exit maneuvers.
+
+The system utilizes sensor fusion and a custom mapping algorithm to understand and interact with the surrounding environment in real time.
+
+Technologies: STM32, C/C++, Ultrasonic Sensors, Sensor Fusion, Mapping Algorithms, Embedded Systems >  
 - 🧠 <Project 2 Name> – <Brief Description>  
 - 📊 <Project 3 Name> – <Brief Description>  
 
@@ -48,10 +58,10 @@
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/<YourLinkedInUsername>/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-ehab-eid>/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:<YourEmail>">
+  <a href="mailto:<ehab63047@gmail.com>">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
