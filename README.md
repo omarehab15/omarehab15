@@ -50,7 +50,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: omarehab15@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/omarehab15/)  
+- 💼 [LinkedIn](www.linkedin.com/in/omar-ehab-eid)  
 - 💻 [GitHub](https://github.com/omarehab15)
 
 ---
