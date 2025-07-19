@@ -1,67 +1,57 @@
-<h1 align="center">Hi 👋, I'm OMAR EHAB </h1>
-<h3 align="center">A passionate AI Engineer with Embedded Systems background</h3>
+# 💻 Omar Ehab
+
+🎓 Mechatronics Engineer | 🤖 Embedded Systems & AI Enthusiast  
+🔬 Passionate about building smart, autonomous systems.  
+🌍 Combining AI + Electronics to solve real-world problems.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Technologies & Skills
 
-- 🎓 I'm a Mechatronics Engineer specialized in **Artificial Intelligence**
-- 🧠 I have hands-on experience in **Machine Learning**, **Deep Learning**, and **Embedded Systems**
-- 🛠️ Practical AI experience (3 months) developing ML/DL models at Fastpro company
-- 📚 Completed training with **NTI x Huawei**, currently in **DEBI - Generative AI Track**
-- 🌱 Currently learning more about: <Generative Ai at DEPI>
-- 📫 Reach me at: <ehab63047@gmail>
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- 💡 **AI & Data Science:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras, PyTorch
+- 📦 **Machine Learning:** Linear Regression, Decision Trees, KNN, SVM, XGBoost, CNNs, RNNs
+- 🔧 **Embedded Systems:** STM32, C/C++, HAL/MCAL Layer, FreeRTOS, Proteus, Keil, UART/SPI/I2C
+- 📊 **Tools:** Git, GitHub, Jupyter, VSCode, Excel, SQL, Power BI
+- 🌐 **Web Scraping & Automation:** BeautifulSoup, Selenium
 
 ---
 
-### 📈 GitHub Stats
+## 📌 Projects Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarehab15&show_icons=true&theme=radical" />
-</p>
+- 🚗 **Self-Parking Car Prototype**  
+  Developed a working model with full control logic (MCAL/HAL/APP), implemented ADAS-like behavior to detect suitable parking spots and automatically park (parallel/perpendicular).  
+  👉 [Repo](https://github.com/omarehab15/Self-Parking-System)
 
----
+- 🧠 **ML & DL Projects**  
+  Real-world datasets applied with classification/regression/clustering models including CNNs for image classification.  
+  👉 [NTI x Huawei AI Training](https://github.com/omarehab15/NTIxHuawei_AI_Training)
 
-### 📌 Featured Projects
-
-- 🔍 Graduation_project: Self parking vehicle –  Designed and implemented a functional prototype that simulates the autonomous parking process. The system includes an ADAS module capable of:
-
-Searching for a suitable parking spot (parallel or perpendicular),
-
-Deciding the optimal parking strategy,
-
-Performing automated parking and exit maneuvers.
-
-The system utilizes sensor fusion and a custom mapping algorithm to understand and interact with the surrounding environment in real time.
-
-Technologies: STM32, C/C++, Ultrasonic Sensors, Sensor Fusion, Mapping Algorithms, Embedded Systems.   
-- 🧠 <Project 2 Name> – <Brief Description>  
-- 📊 <Project 3 Name> – <Brief Description>  
-
-> Check out all my projects [here](https://github.com/<YourGitHubUsername>?tab=repositories)
+- 📦 **Embedded Systems Practice**  
+  Drivers for GPIO, ADC, Timers, and Communication Protocols on STM32.  
+  👉 [Embedded Repo](https://github.com/omarehab15/embedded_systems)
 
 ---
 
-### 🤝 Let's Connect
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-ehab-eid>/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:<ehab63047@gmail.com>">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarehab15&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarehab15&layout=compact&theme=tokyonight)
+
+---
+
+## 🏅 Badges & Engagement
+
+![GitHub followers](https://img.shields.io/github/followers/omarehab15?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/omarehab15?style=social)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: omarehab15@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/omarehab15/)  
+- 💻 [GitHub](https://github.com/omarehab15)
+
+---
+⭐ Don’t forget to star my repos if you find them helpful!
